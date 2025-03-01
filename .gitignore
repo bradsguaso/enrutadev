@@ -1,0 +1,3 @@
+enrutadevvenv/
+*.pyc
+__pycache__/

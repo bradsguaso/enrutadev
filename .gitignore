@@ -1,3 +1,4 @@
 enrutadevvenv/
-*.pyc
+.idea/
 __pycache__/
+*.pyc
